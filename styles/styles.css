@@ -434,36 +434,32 @@ body {
   line-height: 24px;
 }
 
-.clr-n-900 {
+.color-9 {
   color: #000;
 }
 
-.clr-n-800 {
+.color-8 {
   color: #172b4d;
 }
 
-.clr-n-700 {
+.color-7 {
   color: #253858;
 }
 
-.clr-n-600 {
+.color-6 {
   color: #344563;
 }
 
-.clr-n-500 {
+.color-5 {
   color: #7a869a;
 }
 
-.clr-p-500 {
+.color-paragraph-1 {
   color: #396df2;
 }
 
-.clr-p-400 {
+.color-paragraph-2 {
   color: #6070ff;
-}
-
-.clr-p-300 {
-  color: #7f8cff;
 }
 
 input::placeholder {
